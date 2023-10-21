@@ -1,7 +1,7 @@
 //Ana Simone - Comision 3
 //Prof: David Bedoian 
 //TP5 - MiniJuego con POO orientado a la Aventura Gráfica
-// YT LINK: 
+// YT LINK: https://youtu.be/wWkRukcLmDQ
 let juego;
 let imgJugador, imgEnemigo, imgObstaculo, imgFondo, imgInicio;
 let pantalla;
